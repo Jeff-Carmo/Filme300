@@ -25,10 +25,12 @@ footer{
 h1{
 	text-align: center;
 	font-size: 30pt;
+	box-shadow: 1px 1px 1px 27px black;
 }
 
 h2{
 	text-align: center;
+	
 }
 
 p{
@@ -37,14 +39,14 @@ p{
 }
 .logo{
 	display: block;
-	margin-left: 40%;
+	margin: auto;
 
 }
 
 .leonidas{
-	margin-left: 19%;
-	display: flex;
-	
+	display: block;
+	margin: auto;
+
 }
 
 .texto{
@@ -55,7 +57,6 @@ p{
  	display: flex;
 	flex-direction: column;
 	align-items: center;
-	
 }
 
 .cenas {
